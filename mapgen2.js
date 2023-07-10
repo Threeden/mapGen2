@@ -188,7 +188,7 @@ on('ready',()=>{
             return
         break;
         case "Help Map List":
-            sendChat('Akashic Paths',"The currently available maps to create are: Valley of Tombs, Temple of Knowledge, Temple of Sand, Caves of Chaos, Golem Factory (low), Golem Facory (High), Forest Temple, Deep Ocean, Balance (Low), Frostbite, Giant's Arena, Air, Mandible Hill, Ice Castle, Titan's Grave, Death, Ultimate Depths, Heart of a Valcano, Depths of the Abyss, Solar Cathedral, Hades, Fey Gate, Living World, Dragon Lair (Forest), Dragon Lair (Swamp), Dragon Lair (Void), Dragon Lair (Ice), Dragon Lair (Desert), Dragon Lair (Sea)")
+            sendChat('Akashic Paths',"The currently available maps to create are: Valley of Tombs, Temple of Knowledge, Temple of Sand, Caves of Chaos, Golem Factory (Low), Golem Facory (High), Forest Temple, Deep Ocean, Balance (Low), Frostbite, Giant's Arena, Air, Mandible Hill, Ice Castle, Titan's Grave, Death, Ultimate Depths, Heart of a Volcano, Depths of the Abyss, Solar Cathedral, Hades, Fey Gate, Living World, Dragon Lair (Forest), Dragon Lair (Swamp), Dragon Lair (Void), Dragon Lair (Ice), Dragon Lair (Desert), Dragon Lair (Sea)")
             return
         break;
         
